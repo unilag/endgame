@@ -9,7 +9,7 @@ pip3 install --user endgame
 * Homebrew (this will not work until the repository is public)
 
 ```bash
-brew tap salesforce/endgame https://github.com/salesforce/endgame
+brew tap salesforce/endgame https://github.com/agnivesh/endgame
 brew install endgame
 ```
 
