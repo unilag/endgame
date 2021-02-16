@@ -1,6 +1,6 @@
 site_name: Endgame
 site_url: https://endgame.readthedocs.io/
-repo_url: https://github.com/salesforce/endgame/
+repo_url: https://github.com/agnivesh/endgame/
 theme: material
 use_directory_urls: true
 markdown_extensions:
