@@ -9,7 +9,7 @@ pip3 install --user endgame
 * Homebrew (this will not work until the repository is public)
 
 ```bash
-brew tap agnivesh/endgame https://github.com/agnivesh/endgame
+brew tap kmcquade/endgame https://github.com/kmcquade/endgame
 brew install endgame
 ```
 
