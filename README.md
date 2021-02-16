@@ -2,6 +2,7 @@
 
 An AWS Pentesting tool that lets you use one-liner commands to backdoor an AWS account's resources with a rogue AWS account - or share the resources with the entire internet 😈
 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/kmcquade3.svg?style=social&label=Follow%20the%20author)](https://twitter.com/kmcquade3)
 [![Documentation Status](https://readthedocs.org/projects/endgame/badge/?version=latest)](https://endgame.readthedocs.io/en/latest/?badge=latest)
 [![Downloads](https://pepy.tech/badge/endgame)](https://pepy.tech/project/endgame)
 
