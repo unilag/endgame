@@ -2,9 +2,9 @@ class Endgame < Formula
   include Language::Python::Virtualenv
 
   desc "Shiny new formula"
-  homepage "https://github.com/salesforce/endgame"
-  url "https://files.pythonhosted.org/packages/88/7e/e664d5c4708b7056110b672eefd3bd29133fb731ffa63c2eda656c290c75/endgame-0.1.6.tar.gz"
-  sha256 "ba1f5da8e10c96ea9e9aa73fd0205964013da615d6512b854421f18ba16b1393"
+  homepage "https://github.com/kmcquade/endgame"
+  url "https://files.pythonhosted.org/packages/0c/f0/9eced7d6c57483c49db1a5bdbb4061e5f8346a3701bef9354e98b7f3f84e/endgame-0.2.0.tar.gz"
+  sha256 "6d2833293f51cc899f9a01c84e170ad44e087e5f3ebc8b909f4ca1ffbeef7766"
 
   depends_on "python3"
 
